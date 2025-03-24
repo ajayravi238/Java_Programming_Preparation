@@ -1,3 +1,12 @@
+// Input
+// 5
+// Output
+//     1
+//    121
+//   12321
+//  1234321
+// 123454321
+
 import java.util.Scanner;
 
 public class PyramidForwardAndBackward {
